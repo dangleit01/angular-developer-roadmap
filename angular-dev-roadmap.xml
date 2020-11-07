@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T23:28:57.405Z" agent="5.0 (Windows)" version="13.8.8" etag="JCskHz-fmMPuT1rV3UHL" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-07T23:30:28.634Z" agent="5.0 (Windows)" version="13.8.8" etag="TpZvpyZ2sflnvnUACouR" type="github" pages="2">
   <diagram id="0tFFnD4-TxE8ftbEPjqK" name="Angular">
     <mxGraphModel dx="545" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1194,7 +1194,7 @@
         <mxCell id="FkH4HGFmsmbe6IB-331x-7" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="6ZDPEW_oWIchiwuoI3zo-0" target="FkH4HGFmsmbe6IB-331x-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Built-in Attributes (directives)" link="https://www.tutorialsteacher.com/angularjs/first-angularjs-application" id="6ZDPEW_oWIchiwuoI3zo-0">
+        <UserObject label="Built-in Attributes (directives)" link="https://www.tutorialsteacher.com/angularjs/angularjs-directives" id="6ZDPEW_oWIchiwuoI3zo-0">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
             <mxGeometry x="150" y="230" width="80" height="32" as="geometry" />
           </mxCell>
