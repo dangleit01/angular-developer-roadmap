@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T22:50:25.096Z" agent="5.0 (Windows)" version="13.8.8" etag="whYRo-nCR1cZCmUuPBwY" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-07T22:51:07.077Z" agent="5.0 (Windows)" version="13.8.8" etag="utn8y7788UsRBweOOD3H" type="github" pages="2">
   <diagram id="0tFFnD4-TxE8ftbEPjqK" name="Angular">
     <mxGraphModel dx="545" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1184,8 +1184,8 @@
         <mxCell id="uFeU_zygtJQjYD3Coo_R-5" value="" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=10;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="6ZDPEW_oWIchiwuoI3zo-0" target="alY99Iwh21yd-3VkKo5L-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ZDPEW_oWIchiwuoI3zo-0" value="Built-in Attributes" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-          <mxGeometry x="150" y="240" width="80" height="22" as="geometry" />
+        <mxCell id="6ZDPEW_oWIchiwuoI3zo-0" value="Built-in Attributes (directives)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
+          <mxGeometry x="150" y="230" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="alY99Iwh21yd-3VkKo5L-0" value="ng-app" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
           <mxGeometry x="160" y="180" width="80" height="22" as="geometry" />
