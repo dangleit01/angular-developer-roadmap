@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T22:51:07.077Z" agent="5.0 (Windows)" version="13.8.8" etag="utn8y7788UsRBweOOD3H" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-07T22:54:50.100Z" agent="5.0 (Windows)" version="13.8.8" etag="c0jy9S67PJvaNU8jLDHY" type="github" pages="2">
   <diagram id="0tFFnD4-TxE8ftbEPjqK" name="Angular">
     <mxGraphModel dx="545" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1184,6 +1184,9 @@
         <mxCell id="uFeU_zygtJQjYD3Coo_R-5" value="" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=10;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="6ZDPEW_oWIchiwuoI3zo-0" target="alY99Iwh21yd-3VkKo5L-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uFeU_zygtJQjYD3Coo_R-8" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=10;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="6ZDPEW_oWIchiwuoI3zo-0" target="uFeU_zygtJQjYD3Coo_R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ZDPEW_oWIchiwuoI3zo-0" value="Built-in Attributes (directives)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
           <mxGeometry x="150" y="230" width="80" height="32" as="geometry" />
         </mxCell>
@@ -1191,19 +1194,22 @@
           <mxGeometry x="160" y="180" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="alY99Iwh21yd-3VkKo5L-1" value="ng-model" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-          <mxGeometry x="40" y="218" width="80" height="22" as="geometry" />
+          <mxGeometry x="50" y="200" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="alY99Iwh21yd-3VkKo5L-2" value="ng-bind" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-          <mxGeometry x="40" y="278" width="80" height="22" as="geometry" />
+          <mxGeometry x="30" y="250" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="alY99Iwh21yd-3VkKo5L-3" value="ng-view" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-          <mxGeometry x="160" y="300" width="80" height="22" as="geometry" />
+          <mxGeometry x="80" y="290" width="80" height="22" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1 style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;What is AngularJS?&lt;/font&gt;&lt;/h1&gt;" link="https://www.tutorialsteacher.com/angularjs/what-is-angularjs" id="uFeU_zygtJQjYD3Coo_R-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
             <mxGeometry x="195" y="110" width="140" height="28" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="uFeU_zygtJQjYD3Coo_R-7" value="{{ }}" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
+          <mxGeometry x="180" y="290" width="80" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
