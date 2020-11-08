@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T06:25:28.221Z" agent="5.0 (Windows)" version="13.8.8" etag="x6pPe8waIm_gStsuyZyH" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-08T06:29:52.193Z" agent="5.0 (Windows)" version="13.8.8" etag="iXwNRGe2Lijnnv2kOiwZ" type="github" pages="2">
   <diagram id="0tFFnD4-TxE8ftbEPjqK" name="Angular">
     <mxGraphModel dx="545" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1415,9 +1415,33 @@
         <mxCell id="FkH4HGFmsmbe6IB-331x-53" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;comic=0;strokeColor=none;fillColor=#990000;fontFamily=Helvetica;fontSize=14;align=center;shadow=0;fontColor=#FFFF00;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
           <mxGeometry x="300" y="726" width="24" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="FkH4HGFmsmbe6IB-331x-57" value="" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="FkH4HGFmsmbe6IB-331x-54" target="FkH4HGFmsmbe6IB-331x-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkH4HGFmsmbe6IB-331x-60" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="FkH4HGFmsmbe6IB-331x-54" target="FkH4HGFmsmbe6IB-331x-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkH4HGFmsmbe6IB-331x-62" value="" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="FkH4HGFmsmbe6IB-331x-54" target="FkH4HGFmsmbe6IB-331x-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Event Directives" link="https://www.tutorialsteacher.com/angularjs/angularjs-events" id="FkH4HGFmsmbe6IB-331x-54">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
             <mxGeometry x="180" y="722" width="80" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ng-click" link="https://www.tutorialsteacher.com/angularjs/angularjs-events" id="FkH4HGFmsmbe6IB-331x-56">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
+            <mxGeometry x="200" y="670" width="60" height="24" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ng-mouseenter" link="https://www.tutorialsteacher.com/angularjs/angularjs-events" id="FkH4HGFmsmbe6IB-331x-58">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
+            <mxGeometry x="98" y="670" width="70" height="24" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ng-mouseleave" link="https://www.tutorialsteacher.com/angularjs/angularjs-events" id="FkH4HGFmsmbe6IB-331x-61">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
+            <mxGeometry x="60" y="730" width="80" height="24" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
