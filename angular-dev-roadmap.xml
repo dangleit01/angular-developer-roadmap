@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T07:05:09.272Z" agent="5.0 (Windows)" version="13.8.8" etag="ztSnUOKnr76pudAhk0bU" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-08T07:06:24.223Z" agent="5.0 (Windows)" version="13.8.8" etag="60yGOaA7ef9CdJ3Om68N" type="github" pages="2">
   <diagram id="0tFFnD4-TxE8ftbEPjqK" name="Angular">
     <mxGraphModel dx="545" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1473,6 +1473,9 @@
         <mxCell id="FkH4HGFmsmbe6IB-331x-71" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="FkH4HGFmsmbe6IB-331x-68" target="FkH4HGFmsmbe6IB-331x-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FkH4HGFmsmbe6IB-331x-79" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="FkH4HGFmsmbe6IB-331x-68" target="FkH4HGFmsmbe6IB-331x-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Built-in Services" link="https://www.tutorialsteacher.com/angularjs/angularjs-service" id="FkH4HGFmsmbe6IB-331x-68">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
             <mxGeometry x="365" y="770" width="85" height="22" as="geometry" />
@@ -1483,7 +1486,7 @@
         </mxCell>
         <UserObject label="$http" link="https://www.tutorialsteacher.com/angularjs/angularjs-service" id="FkH4HGFmsmbe6IB-331x-70">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-            <mxGeometry x="510" y="727" width="50" height="22" as="geometry" />
+            <mxGeometry x="430" y="719" width="50" height="22" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="FkH4HGFmsmbe6IB-331x-75" style="edgeStyle=none;curved=1;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=5;strokeWidth=1;fontSize=14;fontColor=#FFFF00;" edge="1" parent="Y7_Kwg-O_JT-cWsLE085-1" source="FkH4HGFmsmbe6IB-331x-72" target="FkH4HGFmsmbe6IB-331x-74">
@@ -1494,17 +1497,22 @@
         </mxCell>
         <UserObject label="Methods" link="https://www.tutorialsteacher.com/angularjs/angularjs-service" id="FkH4HGFmsmbe6IB-331x-72">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-            <mxGeometry x="590" y="708" width="50" height="22" as="geometry" />
+            <mxGeometry x="510" y="700" width="50" height="22" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="$http.get()" link="https://www.tutorialsteacher.com/angularjs/angularjs-service" id="FkH4HGFmsmbe6IB-331x-74">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-            <mxGeometry x="640" y="660" width="50" height="22" as="geometry" />
+            <mxGeometry x="560" y="652" width="50" height="22" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="$http.post()" link="https://www.tutorialsteacher.com/angularjs/angularjs-service" id="FkH4HGFmsmbe6IB-331x-76">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
-            <mxGeometry x="680" y="704" width="50" height="22" as="geometry" />
+            <mxGeometry x="600" y="696" width="50" height="22" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="$log" link="https://www.tutorialsteacher.com/angularjs/angularjs-service" id="FkH4HGFmsmbe6IB-331x-78">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Helvetica;fontSize=10;fillColor=#FFFF66;" vertex="1" parent="Y7_Kwg-O_JT-cWsLE085-1">
+            <mxGeometry x="490" y="770" width="50" height="22" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
